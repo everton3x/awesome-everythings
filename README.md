@@ -8,6 +8,9 @@ Repositório de links sobre qualquer coisa
 [Liber3](https://liber3.eth.limo/)
 : Acervo de livros distribuídos de forma descentralizada.
 
+[Internet Archive: livros em português](https://archive.org/details/booksbylanguage?and%5B%5D=collection%3A%22booksbylanguage_portuguese%22)
+: Acervo de livros em português do Internet Archive.
+
 # Busca e informações
 [Webmii](https://webmii.com/)
 : Busca informações públicas a partir do nome da pessoa.
