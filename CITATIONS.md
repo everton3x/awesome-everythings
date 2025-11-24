@@ -67,7 +67,7 @@
 > -- Antônio Wilson Azevedo de Souza. [É verdade que, nos Estados Unidos, você tem que pagar para a ambulância que te leva a um hospital em uma emergência? Por que pagar por um serviço num momento de urgência?](https://pt.quora.com/%C3%89-verdade-que-nos-Estados-Unidos-voc%C3%AA-tem-que-pagar-para-a-ambul%C3%A2ncia-que-te-leva-a-um-hospital-em-uma-emerg%C3%AAncia-Por-que-pagar-por-um-servi%C3%A7o-num-momento-de-urg%C3%AAncia)
 
 > Muitos que vivem, merecem morrer. E alguns que morrem, merecem viver. Pode resolver essa situação, Frodo? Não seja tão paressado em julgar os outros. Nem os mais sábios conseguem ver o quadro todo.
-> -- Gandalf, em O Senhor dos Anéis.
+> -- J. R. R. Tolkien. **O senhor dos anéis: a sociedade do anel**
 
 > Não é falta de tempo, é excesso de prioridades.
 > -- Everton da Rosa
@@ -93,7 +93,7 @@
 > A questão do poder é a questão central de toda sociedade. A razão é simples. É ela que nos irá dizer quem manda e quem obedece, quem fica com os privilégios e quem é abandonado e excluído.
 > -- Jessé Souza. **A elite do atraso: da escravidão a Bolsonaro**
 
-> O "imbecil perfeito" é criado quando ele, o cidadão espoliado, passa a apoiar a venda subfaturada desses recursos a agentes privados imaginado que assim evita a corrupção estatal.
+> O "imbecil perfeito" é criado quando ele, o cidadão espoliado, passa a apoiar a venda subfaturada desses recursos a agentes privados imaginado que assim evita a corrupção estatal. Como se a maior corrupção -- no sentido de enganar os outros para auferir vantagens ilícitas -- não fosse precisamente permitir que uma meia dúzia de super-ricos ponha no bolso a riqueza de todos, deixando o resto na miséria.
 > -- Jessé Souza. **A elite do atraso: da escravidão a Bolsonaro**
 
 > Não se pode construir uma casa sem pregos e madeira. Se você não quiser que se construa uma casa, esconda os pregos e a madeira. Se não quiser um homem politicamente infeliz, não lhe dê os dois lados de uma questão para resolver; dê-lhe apenasum. Melhor ainda, não lhe dê nenhum. Deixe que ele se esqueça de que há uma coisa como a guerra. Se o governo é ineficiente, despótico e ávido por impostos, melhor que ele seja tudo isso do que as pessoas se preocuparem com isso.
@@ -154,4 +154,97 @@ ninguém mais pode sequer ouvir comentar as tais denúncias. Elas se esvaziam.
 > A bala não vê branco ou preto, o chão vê apenas uma cor vermelha.
 > -- [Resposta de Paulo Santos para Que coisas na vida já foram aceitáveis, mas agora são consideradas extremamente inapropriadas?](https://qr.ae/pCkOzK)
 
-> 
+> Não tenha a ilusão de que você escolhe o melhor produto. Você nem gosta do melhor produto. Você gosta de literalmente qualquer coisa que lhe seja imposta pelo mercado. Você não tem livre arbítrio: você tem um bolso e um coração, que o capitalismo explora impiedosamente para te fazer trabalhar até morrer.
+> -- [José Geraldo Gouvea](https://qr.ae/pCkbAv)
+
+> O mundo existe para que 1% das pessoas vivam bem. Eu quero um mundo onde 99% das pessoas vivam bem.
+> -- Emílio GArcia, no podcast 3 irmão #819
+
+> Aqueles que conseguem fazê-lo acreditar em absurdos conseguem fazê-lo cometer atrocidades.
+> -- Voltaire
+
+> Quem não tem sexo, fala de sexo. Quem tem fome, fala de comida. Quem não tem dinhiero, fala de dinheiro. E nossos oligarcas e banqueiros falam de moralidade.
+> -- Sigmund Freud
+
+> Quando a injustiça se torna lei, a resistência se torna dever.
+> -- Thomas Jefferson
+
+> Os oprimidos são autorizados, a cada poucos anos, a escolher quais representantes da classe opressora irão representá-los e reprimi-los.
+> -- Karl Marx
+
+> Guerra é quando o seu governo diz quem é o seu inimigo. Revolução é quando você descobre isso por si mesmo.
+> -- Napoleão Bonaparte
+
+> Questões políticas são sérias demais para serem deixadas apenas aos políticos.
+> -- Slavoj Zizek
+
+> Se o voto fizesse alguma diferença, eles não nos deixaram fazê-lo.
+> -- Mark Twain
+
+> Quanto mais uma sociedade se afasta da verdade, mais odiará aqueles que a dizem.
+> -- George Orwell
+
+> Não posso acreditar no que você diz, porque vejo o que você faz.
+> -- James Baldwin
+
+> Um jeito confiável de fazer as pessoas acreditarem em falsidades é a repetição frequente, pois a familiaridade não é facilmente distinguível da verdade. Instituições autoritárias e marqueteiros sempre souberam desse fato.
+> -- Daniel Kahneman. **Rápido e devagar: duas formas de pensar**
+
+> Reduzir uma pessoa à atividade que ela exerce por força da coação econômica é desumanizá-la. Você não é aquilo que o obrigam a fazer. Você é aquilo que escolhe ser e fazer.
+> -- [Resposta de José Geraldo Gouvea para A ideia de que o "trabalhao dignifica" não seria apenas um mecanismo de controle social para justificar a expliração sob o capitalismo?](https://qr.ae/pALOxn)
+
+> A ingenuidade e a bondade demonstradas pela humanidade diante do universo revelam uma contradição curiosa: na Terra, os seres humanos podem entrar em outro continente e, sem pensar duas vezes, destruir pela guerra e pela doença a civilização irmã que encontrarem. Mas, quando olham para as estrelas, eles ficam sentimentais e acreditam que, se inteligências extraterrestres existirem, devem ser civilizações dotadas de uma moral nobre, universal, como se valorizar e amar formas de vida diferentes fizessem parte de um código de conduta universal evidente.
+>
+> Acho que devia ser exatamente o contrário: que a bondade que exibimos para as estrelas seja voltada para os membros da raça humana na Terra, e que sejam estabelecidas a confiança e a compreensão entre os diversos povos e civilizações que fazem parte da humanidade. Mas, para o universo além do sistema solar, deveríamos manter vigilância constante e estar preparados para atribuir as piores intenções a qualquer Outro que possa existir no espaço. Para uma civilização frágil como a nossa, sem sombra de dúvida esse é o meio mais responsável.
+> -- Cixin Liu. **O problema dos três corpos**
+
+> O homem inteligente não é aquele que não comete falta alguma. Tais indivíduos não existem nem podem existir. O homem inteligente é aquele que não comete faltas demasiado graves e sabe corrigi-las rapidamente, com facilidade.
+> -- Georg Lukács. **O pensamento de Lênin**
+
+> A oportunidade de retomar o estudo sobre o imperialismo decorre do fato de que, ao contrário do propalado pelas visões apologéticas, que comemoraram o colapso da União Soviética, o  fim da guerra fria e a crise do movimento socialista, a supremacia ilimitada do capitalismo não inaugurou um período de prosperidade, democracia e paz, mas uma época marcada pela instabilidade econômica, pela intensificação das tendências autocráticas do regime burguês, pela ausência de qualquer limite à guerra econômica entre as megaempresas multinacionais que disputam o controle do mercado mundial e pela revitalização de formas explícitas de colonialismo e neocolonialismo que acompanham a terceira divisão do mundo pelas grandes potências imperialistas. O acirramento dos antagonismos do modo de produção capitalista prenuncia um futuro de grandes turbulências sociais, dramáticas comoções políticas e catastróficos desastres ecológicos.
+> -- Vladimir Ilitch Lênin. **O imperialismo: etapa superior do capitalismo**
+
+> A retrospectiva é sempre superior à previsão.
+> -- Don Norman. **O design do dia a dia: edição revista e ampliada**
+
+> Nada destroi um produto tão bem quanto uma propaganda muito boa para um produto ruim.
+> -- Waldez Luis Ludwig
+
+> Um erro repetido mais de uma vez é uma decisão.
+> -- Desconheço o autor
+
+> Uma característica do incompetente é que ele é bem relacionado: está sempre sobre as costas de alguém, ou anda pendurado num saco...
+> [Resposta de José Geraldo Gouvea para Dizem que o presidente Putin é um ditador e elimina os seus adversários políticos? Mas Biden mandou assassinar Donald Trump. Onde está a diferença entre "ditadores" e "democratas"?](https://qr.ae/pCk9Ig)
+
+> Colonizar o espírito e as ideias de alguém é o primeiro passo para controlar seu corpo e seu bolso.
+> -- Jessé Souza. **A elite do atraso: da escravidão a Bolsonaro**
+
+> Em sociedade, não existe libverdade sem limites à liberdade. É justamente o limite à liberdade de um que define a liberdade do outro.
+> [Resposta de O Liberal Irritado para Pergunta sincera, livre mercado realmente funciona? Porque quando se estuda a história de como países ficaram ricos, a realidade é bem diferente, vai encontrar coisas como as Zaibatsu japonesas, projetos de industrialização etc.](https://qr.ae/pKc1du)
+
+> Infelizmente, filmes fizeram as pessoas pensarem que fascistas são sempre homens maus, com uniformes pretos, que se divertem assassinando pessoas e que querem dominar o mundo. Nada está mais longe da verdade. Fascistas podem ser pais e mães de família, podem ser velhinhos, podem ser mulheres bonitas, podem ser fervorosamente religiosos, podem fazer doações aos pobres, podem ser da sua família. Fascistas acordam cedo pra trabalhar, sentam ao seu lado no transporte, dão bom dia no trabalho. Não existe nada que vá lhe indicar de antemão que alguém é fascista. Não existe nada de especial em um fascista. São apenas as opiniões que expressam e as escolhas políticas que fazem que mostram que é um fascista. E isso faz com que muitos fascistas estejam absolutamente convencidos de que não são fascistas, mas que "apenas têm opiniões controversas".
+> [Resposta de O Liberal Irritado para O que exatamente é o facismo? Não a forma de governo, mas sim o adjetivo, o que seria uma pessoa facista, ou uma ação facista ou uma fala facista?](https:/qr.ae/pKZfOY)
+
+> Não sou livre. Nunca fui, mas agora eu sei disso, o que faz diferença.
+> -- Philip K. Dick. **A formiga elétrica**
+
+> Aprendi que as posses mais estimadas por seus semelhantes eram a linhagem alta e imaculada unida à riqueza. Um homem poderia ser respeitado apenas com uma dessas vantagens; mas sem nenhuma, era considerado, exceto em situações muito raras, um vagabundo e um esc ravo, condenado a desperdiçar suas forças para os lucros dos poucos escolhidos!
+> -- Mary Shelley. **Frankenstein**
+
+> É preciso lembrar ainda que o conhecimento é hoje adquirido e financiado por aqueles que se interessam em possuí-lo. Na verdade, foi sempre assim. No início da era científica, os monarcas – e, depois, as democracias – eram os senhores e os beneficiários do conhecimento científico. Hoje, corporações controlam grande parte das descobertas científicas, assim como suas futuras aplicações, gozando de um poder não limitado pelos regulamentos que pertencem ao governo. O poder das corporações é menos visível que o dos governos, e elas pouco podem ser responsabilizadas. A ciência se tornou, como nunca antes, um ato político.
+> -- Stephen Trombley. **50 pensadores que formaram o mundo moderno**
+
+> Em geral, todo convencido metido a rico está mais perto do mendigo a quem ele não quer dar esmola do que do bilionário que ele idolatra.
+> -- [Resposta de José Geraldo Gouvea para Porque os marxistas levam tão a sério discussões sobre quem é rico "de verdade" ou não? Sendo que na verdade qualquer pessoa com uns milhões já compra tudo que alguém pode querer](https://qr.ae/pKosFF)
+
+> Se o que tens a dizer não é mais belo que o silência, então cala-te.
+> -- Pitágoras
+
+> Dar desculpa é a única coisa que os incompetentes fazem bem.
+> -- Everton da Rosa
+
+> E é preciso lembrar que não há nada mais difícil de tomar, mais perigoso de conduzir ou de sucesso mais incerto do que assumir a liderança na introdução de uma nova ordem de coisas. Porque o inovador tem como inimigos todos aqueles que se deram bem sob as condições antigas, e defensores tépidos naqueles que podem se dar bem sob as novas.
+> -- Nicolau Maquiavel. **O príncipe**
+
+> Cinquante anos é muito tempo comentei eu, tolamente. Não quando se olha para trás, a fim de vê-los -- replicou ela. -- Então, indaga-se como desapareceram tão depressa.
+> -- Isaac Asimov. **Eu, robô**
