@@ -1,3 +1,5 @@
+> Todo mundo é ateu do deus do outro.
+> -- Marcos Bruzzo
 > A tolerância chegará a tal ponto que as pessoas inteligentes serão proibidas de fazer qualquer reflexão para não ofender os imbecis.
 > -- Dostoievski
 
