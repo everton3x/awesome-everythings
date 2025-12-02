@@ -1,3 +1,6 @@
+> de cada qual segundo sua capacidade, a cada qual segundo suas necessidades
+> -- Karl Marx em Crítica do Programa de Gotha.
+
 > Todo mundo é ateu do deus do outro.
 > -- Marcos Bruzzo
 > A tolerância chegará a tal ponto que as pessoas inteligentes serão proibidas de fazer qualquer reflexão para não ofender os imbecis.
