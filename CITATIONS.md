@@ -1,3 +1,6 @@
+> Atenção demais faz até um burro pensar que é um leão.
+> -- Desconheço o autor.
+
 > de cada qual segundo sua capacidade, a cada qual segundo suas necessidades
 > -- Karl Marx em Crítica do Programa de Gotha.
 
