@@ -1,3 +1,6 @@
+> Não era verdade, mas não é a verdade que vence, é a convicção. Convence-te de uma ideia, e morrerás por ela [...]
+> -- Machado de Assis, Esaú e Jacó
+
 > Atenção demais faz até um burro pensar que é um leão.
 > -- Desconheço o autor.
 
