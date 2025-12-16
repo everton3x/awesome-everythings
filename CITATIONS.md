@@ -1,3 +1,6 @@
+> [...]  bem sabemos que quem não percebe ter um problema não buscará soluções para ele.
+> -- Carol Jesper, Não foi isso que eu quis dizer!: O lado curioso (e preocupante) do texto e da fala na era da interpretação duvidosa
+
 > A ignorância é o primeiro passo em direção à sabedoria, mas a arrogância é o obstáculo que nos impede de dar o segundo.
 > -- Carol Jesper, Não foi isso que eu quis dizer!: O lado curioso (e preocupante) do texto e da fala na era da interpretação duvidosa
 
