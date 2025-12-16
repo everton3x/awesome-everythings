@@ -1,3 +1,6 @@
+>  No livro Viver em paz para morrer em paz, o filósofo Mario Sergio Cortella argumenta que não é o erro que ensina, mas a correção dele. Tropeços são inerentes, mas o melhor método pedagógico para lidar com eles não é perpetuar a exposição ao tropeço, e sim encontrar caminhos para que deixem de acontecer.
+> -- Carol Jesper, Não foi isso que eu quis dizer!: O lado curioso (e preocupante) do texto e da fala na era da interpretação duvidosa
+
 > [...]  bem sabemos que quem não percebe ter um problema não buscará soluções para ele.
 > -- Carol Jesper, Não foi isso que eu quis dizer!: O lado curioso (e preocupante) do texto e da fala na era da interpretação duvidosa
 
