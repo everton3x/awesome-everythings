@@ -1,3 +1,6 @@
+> A ignorância é o primeiro passo em direção à sabedoria, mas a arrogância é o obstáculo que nos impede de dar o segundo.
+> -- Carol Jesper, Não foi isso que eu quis dizer!: O lado curioso (e preocupante) do texto e da fala na era da interpretação duvidosa
+
 > Não era verdade, mas não é a verdade que vence, é a convicção. Convence-te de uma ideia, e morrerás por ela [...]
 > -- Machado de Assis, Esaú e Jacó
 
