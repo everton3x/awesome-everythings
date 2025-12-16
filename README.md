@@ -25,3 +25,13 @@ Repositório de links sobre qualquer coisa
 # Latex
 [Overleaf](https://www.overleaf.com/)
 : Editor Latex on line.
+
+# PHP
+[PHP Universe](https://github.com/makalin/php-universe)
+: Ferramentas para compilar PHP.
+
+[Native PHP](https://nativephp.com/)
+: Construção de aplicações "nativas" com PHP.
+
+[Franken PHP](https://frankenphp.dev/pt-br/)
+: Aplicações PHP como se fossem nativas.
