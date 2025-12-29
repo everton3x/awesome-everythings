@@ -5,6 +5,12 @@ Repositório de links sobre qualquer coisa
 [Webmii](https://webmii.com/)
 : Busca informações públicas a partir do nome da pessoa.
 
+[Archive Today](https://archive.ph/)
+: Captura e arquivo de webpages.
+
+[Wayback Machine](https://web.archive.org/)
+: Arquivo da internet.
+
 # Games / Jogos
 [Command & Conquer: Red Alert 2 On-line](https://game.chronodivide.com/)
 : Jogue direto no navegador Command & Conquer: Red Alert 2.
