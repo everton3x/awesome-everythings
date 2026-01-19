@@ -11,6 +11,9 @@ Repositório de links sobre qualquer coisa
 [Wayback Machine](https://web.archive.org/)
 : Arquivo da internet.
 
+[Opinautos](https://www.opinautos.com.br/)
+: Informações sobre veículos.
+
 # Games / Jogos
 [Command & Conquer: Red Alert 2 On-line](https://game.chronodivide.com/)
 : Jogue direto no navegador Command & Conquer: Red Alert 2.
