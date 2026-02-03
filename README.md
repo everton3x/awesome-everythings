@@ -51,3 +51,6 @@ Repositório de links sobre qualquer coisa
 # Ferramentas
 [WinUtil by Chris Titus](https://github.com/ChrisTitusTech/winutil)
 : Ferramenta para twik o Windows 11.
+
+[TAC Writer](https://github.com/narayanls/tac-writer)
+: Assistente de Escrita Acadêmica para a Técnica de Argumentação Contínua.
