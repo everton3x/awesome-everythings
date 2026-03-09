@@ -48,6 +48,9 @@ Repositório de links sobre qualquer coisa
 [Tempest](https://tempestphp.com/)
 : Framework PHP.
 
+[PHPacker](https://phpacker.dev/)
+: Cria executáveis com PHP auto-contido.
+
 # Ferramentas
 [WinUtil by Chris Titus](https://github.com/ChrisTitusTech/winutil)
 : Ferramenta para twik o Windows 11.
