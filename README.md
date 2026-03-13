@@ -57,3 +57,6 @@ Repositório de links sobre qualquer coisa
 
 [TAC Writer](https://github.com/narayanls/tac-writer)
 : Assistente de Escrita Acadêmica para a Técnica de Argumentação Contínua.
+
+[Yorn](https://github.com/nunomaduro/yorn)
+: import/export de módulos semelhante ao Python/JS, só que com PHP.
