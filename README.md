@@ -60,3 +60,6 @@ Repositório de links sobre qualquer coisa
 
 [Yorn](https://github.com/nunomaduro/yorn)
 : import/export de módulos semelhante ao Python/JS, só que com PHP.
+
+[Termwind](https://github.com/nunomaduro/termwind)
+: Aplicações de terminal com PHP e Tailwind.
