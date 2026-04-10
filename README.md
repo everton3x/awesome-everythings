@@ -55,6 +55,12 @@ Repositório de links sobre qualquer coisa
 [PHPacker](https://phpacker.dev/)
 : Cria executáveis com PHP auto-contido.
 
+[Yorn](https://github.com/nunomaduro/yorn)
+: import/export de módulos semelhante ao Python/JS, só que com PHP.
+
+[Termwind](https://github.com/nunomaduro/termwind)
+: Aplicações de terminal com PHP e Tailwind.
+
 # Ferramentas
 [WinUtil by Chris Titus](https://github.com/ChrisTitusTech/winutil)
 : Ferramenta para twik o Windows 11.
@@ -62,8 +68,5 @@ Repositório de links sobre qualquer coisa
 [TAC Writer](https://github.com/narayanls/tac-writer)
 : Assistente de Escrita Acadêmica para a Técnica de Argumentação Contínua.
 
-[Yorn](https://github.com/nunomaduro/yorn)
-: import/export de módulos semelhante ao Python/JS, só que com PHP.
-
-[Termwind](https://github.com/nunomaduro/termwind)
-: Aplicações de terminal com PHP e Tailwind.
+[Cobalt Tools](https://cobalt.tools/)
+: Baixador de vídeos do Tiktok, Instagram, Youtube etc.
