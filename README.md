@@ -61,6 +61,9 @@ Repositório de links sobre qualquer coisa
 [Termwind](https://github.com/nunomaduro/termwind)
 : Aplicações de terminal com PHP e Tailwind.
 
+[HaPHPiness](https://haphpiness.com/)
+: Resumo de recursos do PHP.
+
 # Ferramentas
 [WinUtil by Chris Titus](https://github.com/ChrisTitusTech/winutil)
 : Ferramenta para twik o Windows 11.
