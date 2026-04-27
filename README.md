@@ -18,6 +18,9 @@ Repositório de links sobre qualquer coisa
 [Command & Conquer: Red Alert 2 On-line](https://game.chronodivide.com/)
 : Jogue direto no navegador Command & Conquer: Red Alert 2.
 
+[DOS Zone](https://dos.zone/)
+: Jogue direto no navegaro jogos antigos.
+
 # Livros
 [Anna's arqchive](https://annas-archive.org/)
 : A maior biblioteca verdadeiramente aberta da história da humanidade.
