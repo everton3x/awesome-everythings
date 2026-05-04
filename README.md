@@ -76,3 +76,7 @@ Repositório de links sobre qualquer coisa
 
 [Cobalt Tools](https://cobalt.tools/)
 : Baixador de vídeos do Tiktok, Instagram, Youtube etc.
+
+# Software
+[Softpass Informática](https://softpassinformatica.com.br/)
+: Licenças a preços acessíveis.
