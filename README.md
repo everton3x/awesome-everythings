@@ -17,6 +17,9 @@ Repositório de links sobre qualquer coisa
 [Mind-7](https://mind-7.org/)
 : Busca informações sobre pessoas a partir do nome, cpf, e-mail, telefone etc. Maior parte das informações disponíveis apenas no plano pago.
 
+[Brasil API](https://github.com/BrasilAPI/BrasilAPI)
+: Este projeto experimental tem como objetivo centralizar e disponibilizar endpoints modernos com baixíssima latência independente de sua fonte.
+
 # Games / Jogos
 [Command & Conquer: Red Alert 2 On-line](https://game.chronodivide.com/)
 : Jogue direto no navegador Command & Conquer: Red Alert 2.
