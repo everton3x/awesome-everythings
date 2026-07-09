@@ -37,6 +37,9 @@ Repositório de links sobre qualquer coisa
 [Internet Archive: livros em português](https://archive.org/details/booksbylanguage?and%5B%5D=collection%3A%22booksbylanguage_portuguese%22)
 : Acervo de livros em português do Internet Archive.
 
+# Python
+[Python Fluente, 2ª Edição (2023)](https://pythonfluente.com/2/)
+
 # Latex
 [Overleaf](https://www.overleaf.com/)
 : Editor Latex on line.
