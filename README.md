@@ -83,6 +83,9 @@ Repositório de links sobre qualquer coisa
 [Cobalt Tools](https://cobalt.tools/)
 : Baixador de vídeos do Tiktok, Instagram, Youtube etc.
 
+[RibDim](https://www.ribdim.com/pt/)
+: Editor e IDE para VBA / MS Office e para Ribbon
+
 # Software
 [Softpass Informática](https://softpassinformatica.com.br/)
 : Licenças a preços acessíveis.
