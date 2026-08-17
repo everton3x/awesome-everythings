@@ -28,6 +28,10 @@ Repositório de links sobre qualquer coisa
 : Jogue direto no navegaro jogos antigos.
 
 # Livros
+
+[WeLib](https://welib.st/)
+: Livros no estilo Anna's Archive.
+
 [Anna's arqchive](https://annas-archive.org/)
 : A maior biblioteca verdadeiramente aberta da história da humanidade.
 
